@@ -1,0 +1,4 @@
+# update_index.py writes LF; keep the working tree LF everywhere so a fresh
+# clone on Windows (core.autocrlf=true) doesn't show the README as modified
+# the first time the script runs.
+* text=auto eol=lf
