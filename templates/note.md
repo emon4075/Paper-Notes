@@ -47,3 +47,8 @@ Save as notes/YYYY-MM-DD-short-slug.md, then run: python scripts/update_index.py
 ## Terms I had to look up
 
 <!-- Vocabulary, with short definitions, so the next paper is cheaper. -->
+
+## Future Scopes
+
+<!-- Any future directions possible from the paper -->
+
