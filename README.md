@@ -16,10 +16,11 @@ honest and so anyone can see what I've been reading.
 
 <!-- INDEX:START -->
 
-_2 papers · ml (1), nlp (1) · 2 read in the last 30 days_
+_3 papers · nlp (2), ml (1) · 1 read in the last 30 days_
 
 | Date Read | Paper | Venue/Year | Area | Depth |
 | --- | --- | --- | --- | --- |
+| 2026-11-12 | [Leveraging sentiment analysis of Arabic Tweets for the 2022 FIFA World Cup insights, incorporating the gulf region](notes/2026-11-12-arabic-sentiment-analysis-on-wc-14.md) | Managing Sport and Leisure 2024 | nlp | skim |
 | 2026-08-25 | [Benchmarking Machine Learning and Deep Learning Models for Gender Recognition from Bangla Speech](notes/2026-08-25-gender-recognition-bangla-speech.md) | IEEE ICCIT 2025 | ml | skim |
 | 2026-08-15 | [Attention Is All You Need](notes/2026-08-15-attention-is-all-you-need.md) | NeurIPS 2017 | nlp | deep |
 
